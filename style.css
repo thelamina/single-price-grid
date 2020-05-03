@@ -100,10 +100,9 @@ p{
   box-shadow: inset -1px -1px 5px 0px #747474;
 }
 
-.price{
-  color: var(--Light-Gray) !important;
+.text-white{
+  color: #fff !important;
 }
-
 ul{
   list-style: none;
 }
