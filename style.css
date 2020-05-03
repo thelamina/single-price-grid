@@ -23,19 +23,25 @@ body{
   font-size: 16px;
   font-family: 'Karla';
   color: var(--Cyan);
-  
+  height: 100vh;
 }
 
 .container{
   /* max-width: 1200px; */
   margin: auto;
 }
-
+main{
+  min-height: 94%;
+}
 div{
   padding: 24px;
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
+}
+section{
+  /* margin: auto; */
+  /* height: 100%; */
 }
 
 
